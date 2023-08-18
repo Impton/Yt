@@ -1,3 +1,3 @@
 # set your telegram bot token
-BOT_TOKEN = "5595411530:AAECD46c5GZ0B0V43Fp0V3DisVtwF2o6Yoo"
+BOT_TOKEN = "6291549673:AAFH8mdUo4tjHafrMPUXRuuq3GM3c-ncbUk"
 tutorial = "BAACAgIAAxkBAAIGQmPrxt24nrWaOytCgu-kUDcUHLseAAK7HwACMh1hS9ol-KxNRCjCLgQ"
